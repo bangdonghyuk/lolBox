@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.b1701eee.js",
-    "static/js/787.ed32c67d.chunk.js": "/static/js/787.ed32c67d.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.b1701eee.js.map": "/static/js/main.b1701eee.js.map",
-    "787.ed32c67d.chunk.js.map": "/static/js/787.ed32c67d.chunk.js.map"
+    "main.css": "/lolBox/static/css/main.073c9b0a.css",
+    "main.js": "/lolBox/static/js/main.1afc6137.js",
+    "static/js/787.ed32c67d.chunk.js": "/lolBox/static/js/787.ed32c67d.chunk.js",
+    "static/media/logo.svg": "/lolBox/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/lolBox/index.html",
+    "main.073c9b0a.css.map": "/lolBox/static/css/main.073c9b0a.css.map",
+    "main.1afc6137.js.map": "/lolBox/static/js/main.1afc6137.js.map",
+    "787.ed32c67d.chunk.js.map": "/lolBox/static/js/787.ed32c67d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.b1701eee.js"
+    "static/js/main.1afc6137.js"
   ]
 }
